@@ -1,8 +1,6 @@
 # python-beginner-projects
 Collection of beginner python projects (calculator, number guessing game, and a maths quiz)
 
-Python Beginner Projects
-
 This repository contains beginner-level Python projects built while learning programming fundamentals.
 
 Projects
@@ -33,3 +31,13 @@ Skills Used
 Note:
 
 These projects were built as part of my early Python learning journey.
+
+▶️ How to Run
+
+1. Install Python
+2. Download the files
+3. Run in terminal:
+
+python calculator.py
+python guessing_game.py
+python math_quiz.py
