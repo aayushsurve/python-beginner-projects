@@ -34,14 +34,14 @@ This is a simple Rock Paper Scissors game I built using Python.
 
 I made this after learning basic concepts like loops, lists, and conditions. I didn’t copy the code — I tried to figure everything out myself, including the game logic and score system.
 
-# Features
+ Features:
 - Play against the computer
 - Computer makes random choices
 - Score tracking (you vs computer)
 - You can type "stop" to end the game
 - Works with inputs like "rock", "ROCK", "RoCk", etc.
 
-# What I Learned
+ What I Learned:
 - How to use `while` loops to keep the game running
 - Writing game logic using `if-elif`
 - Using the `random` module
