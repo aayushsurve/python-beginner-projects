@@ -58,9 +58,10 @@ These projects were built as part of my early Python learning journey.
 2. Download the files
 3. Run in terminal:
 
-python calculator.py
-python guessing_game.py
-python math_quiz.py
+python calculator.py.
+python guessing_game.py.
+python math_quiz.py.
+python rock_paper_scissors.py.
 
 
 Built by a 16-year-old Python learner 🚀
