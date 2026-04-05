@@ -1,5 +1,5 @@
 # python-beginner-projects
-Collection of beginner python projects (calculator, number guessing game, and a maths quiz)
+Collection of beginner python projects 
 
 This repository contains beginner-level Python projects built while learning programming fundamentals.
 
