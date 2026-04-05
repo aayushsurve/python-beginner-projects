@@ -28,6 +28,26 @@ Skills Used
 - variables
 - user input handling
 
+4. Rock Paper Scissors 
+
+This is a simple Rock Paper Scissors game I built using Python.
+
+I made this after learning basic concepts like loops, lists, and conditions. I didn’t copy the code — I tried to figure everything out myself, including the game logic and score system.
+
+# Features
+- Play against the computer
+- Computer makes random choices
+- Score tracking (you vs computer)
+- You can type "stop" to end the game
+- Works with inputs like "rock", "ROCK", "RoCk", etc.
+
+# What I Learned
+- How to use `while` loops to keep the game running
+- Writing game logic using `if-elif`
+- Using the `random` module
+- Handling user input properly using `.lower()`
+- Debugging when things didn’t work (this took time 😅)
+
 Note:
 
 These projects were built as part of my early Python learning journey.
